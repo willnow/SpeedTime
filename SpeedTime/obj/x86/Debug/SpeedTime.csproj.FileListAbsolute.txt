@@ -1,0 +1,7 @@
+C:\Users\willnow\Desktop\SpeedTime\SpeedTime\bin\Debug\SpeedTime.exe
+C:\Users\willnow\Desktop\SpeedTime\SpeedTime\bin\Debug\SpeedTime.pdb
+C:\Users\willnow\Desktop\SpeedTime\SpeedTime\obj\x86\Debug\SpeedTime.MainForm.resources
+C:\Users\willnow\Desktop\SpeedTime\SpeedTime\obj\x86\Debug\SpeedTime.Properties.Resources.resources
+C:\Users\willnow\Desktop\SpeedTime\SpeedTime\obj\x86\Debug\SpeedTime.csproj.GenerateResource.Cache
+C:\Users\willnow\Desktop\SpeedTime\SpeedTime\obj\x86\Debug\SpeedTime.exe
+C:\Users\willnow\Desktop\SpeedTime\SpeedTime\obj\x86\Debug\SpeedTime.pdb
